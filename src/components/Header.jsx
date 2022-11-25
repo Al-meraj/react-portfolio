@@ -36,7 +36,7 @@ export default function Header() {
   return (
     <div className=" bg-black w-full px-4 p-6 items-center flex text-white justify-between  " >
         <div>
-            <h1 className="text-4xl font-bold font-signature text-white " >Mostafizur</h1>
+            <h1 className="text-4xl font-bold font-signature text-white " >Mostafizu</h1>
         </div>
         <ul className='md:flex hidden' >
             {Links.map(({id,link})=>{
